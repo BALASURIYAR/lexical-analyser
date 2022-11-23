@@ -1,4 +1,5 @@
-# lexical-analyser
+<html>
+<body>
 LEXICAL ANALYSER FOR JACK USING PYTHON LANGUAGE
 
 BUILT WITH 
@@ -21,5 +22,6 @@ USAGE
 
 -> lexical analysis is the first phase of a compiler.
 -> The lexical analyser breaks these syntaxes into a series of tokens or lexical units.
--> it removes white spaces or comments in the source code.
+-> it removes white spaces or comments in the source code.</body>
 
+</html>
